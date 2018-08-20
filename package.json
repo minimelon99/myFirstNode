@@ -1,0 +1,23 @@
+{
+  "name": "myfirstnode",
+  "version": "1.0.0",
+  "description": "My first node project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minimelon99/myFirstNode.git"
+  },
+  "author": "Amy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minimelon99/myFirstNode/issues"
+  },
+  "homepage": "https://github.com/minimelon99/myFirstNode#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "resize-img": "^1.1.2"
+  }
+}
